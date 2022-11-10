@@ -1,7 +1,6 @@
 import socket
 import random
 
-
 dest_ip = 'specify the ip'
 dest_port = 80
 
